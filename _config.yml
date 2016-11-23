@@ -1,9 +1,8 @@
 # Site settings
-title: Liang Ke Jin
-description: Liang Ke Jin
-favicon: /assets/img/avatar.JPG
+title: Go For Dream
+description: Go For Dream
 baseurl:
-url: https://liungkejin.github.io
+url: https://gofordream.github.io
 rss_url:
 
 # Build settings
